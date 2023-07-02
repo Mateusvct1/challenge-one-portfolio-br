@@ -40,6 +40,12 @@ https://en.bem.info/methodology/quick-start/*/
 
 /*Sessão Menu*/
 
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
 section.menu{
 
 }
